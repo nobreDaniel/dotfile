@@ -1,5 +1,6 @@
-# GRUB2 gfxmenu Linux theme
-# Designed for any resolution
+# GRUB Arcade linux theme
+# Designed for 1920x1080
+# By DownKost
 
 # Global Property
 title-text: ""
@@ -29,7 +30,7 @@ terminal-border: "0"
   selected_item_pixmap_style = "select_*.png"
 }
 
-# Show a countdown message using the label component
+# Select OS:
 + label {
   top = 42%
   left = 35%
