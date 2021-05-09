@@ -31,7 +31,7 @@ Mine is:
 Go to the 
 > Appearence > Settings > Theme > Arcade > Save (Ctrl + S)
 
-* The Arcade theme should appear in that list *
+*The Arcade theme should appear in that list*
 
 #### After you saved the theme, you're done!
-** Congratulations you now have the Arcade Grub theme, reboot your pc to see it **
+**Congratulations you now have the Arcade Grub theme, reboot your pc to see it**
