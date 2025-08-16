@@ -12,14 +12,14 @@
 
 #### First you download the grub-customizer
 
-*Arch/Manjaro*
- ```
- sudo pacman -Syu grub-customizer
- ```
-*Debian/Ubuntu*
+*Debian/Ubuntu* 
   ``` 
   sudo apt-get install grub-customizer 
   ```
+*Arch/Manjaro* ([AUR](https://wiki.archlinux.org/title/Arch_User_Repository)): 
+<br>
+https://aur.archlinux.org/packages/grub-customizer
+<br>
 
 For any other distro or errors check the [oficial guide](https://launchpad.net/grub-customizer)
 #### Move the Arcade folder to your grub themes folder
